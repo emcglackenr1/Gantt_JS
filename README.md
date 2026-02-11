@@ -12,6 +12,13 @@
 
 <img width="663.5" height="359" alt="original design, hover function" src="https://github.com/user-attachments/assets/29fe5a4e-3fdd-4568-9816-f24ee35df5ef" />  
 
+**Generic Version**  
+
+> Changing details into generic descriptions to support with template
+
+<img width="1338" height="452" alt="image" src="https://github.com/user-attachments/assets/9c194a65-c129-4cff-82b9-7ca4d752aa75" />
+  
+
   
 **Testing More Birdseye View**  
 
